@@ -4,15 +4,13 @@ node_modules
 dist
 target
 *.tsbuildinfo
-.env
-.env.*
 !.env.example
 *.local
 *.log
-.vscode/*
 !.vscode/settings.json
 !.vscode/extensions.json
 .idea
 coverage
 .nyc_output
 test_snapshots/
+config.bat
